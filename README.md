@@ -28,6 +28,11 @@ Iteration 4: Write a function to destroy a zombie when it is shot or missed
 
 Iteration 5: Creating timer
 
+
+
+https://bindhushree05.github.io/zombie-shoot/
+
+
 Iteration 6: Write a code to start the game by calling the first zombie
 
 Iteration 7: Write the helper function to get random integer
